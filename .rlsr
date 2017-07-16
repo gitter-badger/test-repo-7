@@ -1,5 +1,4 @@
 {
   "GITHUB_TOKEN": "",
-  "GITHUB_REPO": "",
-  "test": "npm test"
+  "GITHUB_REPO": ""
 }
