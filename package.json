@@ -1,6 +1,6 @@
 {
   "name": "ddg-terminal",
-  "version": "9.5.1",
+  "version": "12.1.1",
   "description": "NodeJS Application to view scraped results from http://duckduckgo.com in your terminal - also includes Instant Answers",
   "keywords": [
     "duckduckgo",
