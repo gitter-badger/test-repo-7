@@ -1,6 +1,5 @@
 {
   "GITHUB_TOKEN": "",
   "GITHUB_REPO": "",
-  "RUN": [
-  ""]
+  "test": "npm test"
 }

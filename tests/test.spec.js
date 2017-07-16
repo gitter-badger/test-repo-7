@@ -50,7 +50,7 @@ describe("#output", function() {
 
       output.__set__("openurl", {
         open: function (url) {
-          expect(url).toBe('https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise');
+          expect(url).toBe('https://developer.moasdfzilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise');
         }
       });
 
