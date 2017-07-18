@@ -1,5 +1,5 @@
 {
-  "name": "ddg-terminal",
+  "name": "test-repo",
   "author": "FreaKzero",
   "bin": {
     "ddg": "./src/index.js"
