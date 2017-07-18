@@ -34,4 +34,3 @@ Examples:
   $ ddg -l 10 -d blog programming  # Limit to 10, display also Descriptions
   $ ddg -l 3 -u wat meme           # Limit to 3 only show urls
 ```
-adsf
