@@ -1,5 +1,5 @@
 {
-  "name": "ddg-test",
+  "name": "ddg-terminal",
   "author": "FreaKzero",
   "bin": {
     "ddg": "./src/index.js"
@@ -32,7 +32,6 @@
     "NodeJS"
   ],
   "license": "MIT",
-  "name": "ddg-terminal",
   "repository": {
     "type": "git",
     "url": "git@github.com:freakzero/ddg-terminal.git"
@@ -45,5 +44,5 @@
     "test": "jasmine-node --test-dir ./tests",
     "test:watch": "jasmine-node --verbose --autotest --color --growl --test-dir ./tests --watch ./src"
   },
-  "version": "20.0.0"
+  "version": "21.1.1"
 }
