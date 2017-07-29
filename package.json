@@ -44,5 +44,5 @@
     "test": "jasmine-node --test-dir ./tests",
     "test:watch": "jasmine-node --verbose --autotest --color --growl --test-dir ./tests --watch ./src"
   },
-  "version": "21.5.1"
+  "version": "21.5.2"
 }
