@@ -10,7 +10,7 @@ Really useful with the CMD+Click feature of iTerm2
 ![alt text](https://github.com/FreaKzero/ddg-terminal/blob/master/readme/ddg.gif "Demo GIF")
 
 ## Install:
-`npm install -g ddg-terminal`
+`dsfadsfadsfnpm install -g ddg-terminal`
 
 Or download and use one of the [Binary Releases](https://github.com/FreaKzero/ddg-terminal/releases)
 asdf
