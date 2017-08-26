@@ -27,7 +27,7 @@ Flags:
   -u [--only-urls] Show only urls
   -o [--open]      Open found urls in Browser automatically
   -f [--first-hit] Opens First Link in Browser
-
+asdfasdfdsafas
 Examples:
   $ ddg applepie recipie           # Only headlines and urls
   $ ddg -l 5 javascript Promise    # Limit to 5, common programming question it will show instant answer
