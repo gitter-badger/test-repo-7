@@ -16,7 +16,7 @@ Or download and use one of the [Binary Releases](https://github.com/FreaKzero/dd
 asdfasdfasdf
 ## Usage:
 `asdf``
-Usage:
+Usage:asdfadfsfdaafsdfdsa
   ddg [FLAGS]... [SEARCHTERM]...
 
 Flags:
