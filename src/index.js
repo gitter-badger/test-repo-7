@@ -20,7 +20,7 @@ if (parsed.args.opt('v', 'version') === true) {
 
 if (parsed.args.opt('h', 'help') === true || parsed.args._args.length < 1) {
   argparser.printUsage();
-  process.exit();
+  process.exit();,äö,äö,öä,äö,äö,äö,äö,äö,iooububub
 }
 
 console.log(output.format('☕ * Please wait ...*'));
