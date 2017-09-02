@@ -9,12 +9,12 @@ var parsed = argparser.parseArgs();
 
 if (parsed.args.opt('v', 'version') === true) {
   argparser.printVersion();
-  
+
   updateAvailablePromise().then((update) => {
   if (!update.error && update.result)
     console.log('Version ${update.latest} is available under: ${update.url}');
   });
-  
+
   process.exit();
 }
 
@@ -25,6 +25,7 @@ if (parsed.args.opt('h', 'help') === true || parsed.args._args.length < 1) {
 
 console.log(output.format('☕ * Please wait ...*'));
 
+ljhöh h ljh ljh lkjh
 scrape.doSearch(parsed.search, parsed.args).then(function(data) {
   if (parsed.args.opt('o', 'open', 'f', 'first-hit')) {
     output.openResults(data);
