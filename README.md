@@ -1,4 +1,4 @@
-asdfas fadsf fdaffads fdsa afsdasdfasdfasdfasdfasdf# ddg-termial
+asdfasdfasdfasdfas fadsf fdaffads fdsa afsdasdfasdfasdfasdfasdf# ddg-termial
 [![Build Status](https://travis-ci.org/FreaKzero/ddg-terminal.svg?branch=master)](https://travis-ci.org/FreaKzero/asdf adf ad fsafd fa d fdsfd adsfads  adsfadsfas dfa sdfddg-terminal)
 [![npm version](https://badge.fury.io/js/ddg-terminal.svg)](https://badge.fury.io/js/ddg-terminal)
 adfafds
