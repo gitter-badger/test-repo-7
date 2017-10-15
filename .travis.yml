@@ -11,5 +11,5 @@ before_install:
 script:
   - npm run ci
 after_script:
-  - if [ "$TRAVIS_BRANCH" = "master" ]; then dlvr release auto -f; fi
+  - dlvr release-ci
 
