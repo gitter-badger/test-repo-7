@@ -1,6 +1,5 @@
-.changelog
+changelog
 token.json
-dist/
 node_modules/
 .DS_Store
 .rlsr
