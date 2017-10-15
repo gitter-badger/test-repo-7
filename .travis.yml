@@ -6,5 +6,9 @@ node_js:
 cache:
   directories:
     - node_modules
+before_install:
+    - npm install -g dlvr
 script:
   - npm run ci
+after_script:
+  - dlvr release-ci

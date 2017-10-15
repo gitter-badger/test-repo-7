@@ -38,7 +38,7 @@
     "url": "git@github.com:freakzero/ddg-terminal.git"
   },
   "scripts": {
-    "ci": "npm test && dlvr release-ci",
+    "ci": "npm test",
     "build": "rimraf ./dist && pkg . --out-path ./dist/bin",
     "build:mac": "rimraf ./dist && pkg -t node6-macos-x64 . --out-path ./dist/bin",
     "release": "npm test && npm run build && node ./release.js",
