@@ -1,0 +1,24 @@
+{
+  "dotenv": ".env",
+  "logfilter": ".*#",
+  "remote": "origin",
+  "compress": [
+    {
+      "in": "./dist/test.txt",
+      "out": "./dist/test.zip"
+    }
+  ],
+  "githost": {
+    "provider": "github",
+    "repo": "freakzero/test-repo",
+    "release": {
+      "draft": true,
+      "assets": [
+        {
+          "file": "./dist/test.zip",
+          "name": "test.zip"
+        }
+      ]
+    }
+  }
+}
