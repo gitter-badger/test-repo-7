@@ -1,6 +1,4 @@
 token.json
 node_modules/
 .DS_Store
-.rlsr
-.dlvr
 .env
