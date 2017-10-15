@@ -17,7 +17,7 @@
   },
   "description": "NodeJS Application to view scraped results from http://duckduckgo.com in your terminal - also includes Instant Answers",
   "devDependencies": {
-    "dlvr": "git+https://git@github.com/freakzero/dlvr.git#b79c9edab744877d1d07acc82c0aa1a4bd8f4a2b",
+    "dlvr": "3.2.0",
     "github-api": "^3.0.0",
     "jasmine-node": "^1.14.5",
     "node-zip": "^1.1.1",
