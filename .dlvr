@@ -8,8 +8,7 @@
       "out": "./dist/test.zip"
     }
   ],
-  "irc": {
-  },
+  "notify": true,
   "githost": {
     "provider": "github",
     "repo": "freakzero/test-repo",
