@@ -27,6 +27,8 @@ Really useful with the CMD+Click feature of iTerm2
 ![alt text](https://github.com/FreaKzero/ddg-terminal/blob/master/readme/ddg.gif "Demo GIF")
 
 ## Install:
+
+[![Join the chat at https://gitter.im/FreaKzero/test-repo](https://badges.gitter.im/FreaKzero/test-repo.svg)](https://gitter.im/FreaKzero/test-repo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 `dsfadsfadsfnpm install -g ddg-terminal`
 
 Or download and use one of the [Binary Releases](https://github.com/FreaKzero/ddg-terminal/releases)
